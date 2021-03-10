@@ -1,2 +1,3 @@
-# check-in
+safeentry
+
 Add: /check-in.html

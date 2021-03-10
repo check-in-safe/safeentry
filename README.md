@@ -1,2 +1,2 @@
-#check-in
+check-in
 Add: /check-in.html
